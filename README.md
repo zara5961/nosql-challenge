@@ -42,7 +42,7 @@ This ensures that the MongoDB client is correctly set up, allowing us to perform
 
 ---
 
-![Project](Images/nosql analysis.jpg)
+![Project](Images/analysis.jpg)
 ## Part 2: Data Analysis
 
 Once the MongoDB setup is complete, we begin analyzing the dataset. The goal is to retrieve and analyze the data from MongoDB to find interesting patterns and answer specific questions about the food establishments.
