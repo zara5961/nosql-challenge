@@ -1,6 +1,7 @@
 
 # README: Eat Safe, Love - NoSQL Analysis Project
 
+![Project](Images/Food.jpg)
 ## Project Overview
 
 This project is designed to explore and analyze the UK Food Standards Agency's food hygiene ratings data using MongoDB and Python. The analysis helps determine key insights for future food safety articles for the Eat Safe, Love magazine.
@@ -18,6 +19,7 @@ Split into two key components:
 
 ---
 
+![Project](Images/nosql.jpg)
 ## Part 1: Database and Jupyter Notebook Setup
 
 In the first part of the project, we set up a MongoDB database connection and verified that the connection was successful.
@@ -40,6 +42,7 @@ This ensures that the MongoDB client is correctly set up, allowing us to perform
 
 ---
 
+![Project](Images/nosql analysis.jpg)
 ## Part 2: Data Analysis
 
 Once the MongoDB setup is complete, we begin analyzing the dataset. The goal is to retrieve and analyze the data from MongoDB to find interesting patterns and answer specific questions about the food establishments.
